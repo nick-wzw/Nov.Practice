@@ -1,0 +1,11 @@
+import requests
+from lxml.html import fromstring
+
+class Spider():
+    def __init__(self):
+        self.url=url
+        
+		
+        
+
+        
